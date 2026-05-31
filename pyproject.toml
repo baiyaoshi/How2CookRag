@@ -3,6 +3,7 @@ name = "how2cookrag"
 version = "0.1.0"
 requires-python = ">=3.11"
 dependencies = [
+    "langchain-community>=0.4.2",
     "langchain-core>=1.4.0",
     "langchain-text-splitters>=1.1.2",
 ]
